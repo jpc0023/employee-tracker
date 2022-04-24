@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.2.2",
+    "mysql2": "^2.3.3"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpc0023/employee-tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpc0023/employee-tracker/issues"
+  },
+  "homepage": "https://github.com/jpc0023/employee-tracker#readme",
+  "description": ""
+}
